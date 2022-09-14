@@ -2,4 +2,4 @@
 Primeiro repositorio
 
 ## Links Uteis
-[Sintaxe básica Markdow](https://www.markdownguide.org/basic-syntax/)
+[Sintaxe básica Markdonw](https://www.markdownguide.org/basic-syntax/)
